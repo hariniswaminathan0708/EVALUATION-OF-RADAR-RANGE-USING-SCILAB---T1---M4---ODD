@@ -4,7 +4,7 @@ To calculate the maximum range of a radar system using the Radar Range Equation 
 
 ## Apparatus Required
 1. **Software:** Scilab environment
-2. **Hardware:** Personal Computer
+2. **Hardware:** Personal Computer 
 
 ---
 
